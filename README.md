@@ -1,4 +1,5 @@
 # Practice for GitHub
+This line is added in Lesson2.
 - Create GitHub account
  - Click the account icon and choose `Setting`.
  - Click `Developer setting` on the left menu.
